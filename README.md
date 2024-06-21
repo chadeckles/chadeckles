@@ -1,4 +1,4 @@
-# About Me 👋
+# About Me (@chadeckles) 👋
 <img src="https://github.com/chadeckles/chadeckles/blob/main/octocat-ce.png" width="100" display:block>
 
 
