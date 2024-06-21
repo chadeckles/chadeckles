@@ -1,20 +1,20 @@
 ## About Me
 
-Hello 👋 
+#### Hello 👋 
 
-My name is Chad Eckles and I currently reside in Colorado ⛰️
+My name is Chad Eckles and I am a cybersecurity & cloud professional residing in Colorado ⛰️
 
 
-## Professional Life
+## Professional
 
 :octocat: I am a Senior Security Engineer at GitHub focusing on security cloud infrastructure. My goal is to make the world a more secure place for everyone.
 
 🪖 I started my career in technology with the United States Air Force and continue to serve in the US Navy Reserves as a Maritime Cyber Warfare Officer.
 
-🏫 I am a current adjunct instructor at the University of Denver.
+🏫 I teach as an adjunct instructor at the University of Denver.
 
 
-## Personal Life
+## Personal
 
 You can typically find me:
 - Spending time with family 👪
