@@ -11,7 +11,7 @@ My name is Chad Eckles and I currently reside in Colorado ⛰️
 
 🪖 I started my career in technology with the United States Air Force and continue to serve in the US Navy Reserves as a Maritime Cyber Warfare Officer.
 
-🏫 Current Adjunct Instructor at the University of Denver
+🏫 I am a current adjunct instructor at the University of Denver.
 
 
 ## Personal Life
@@ -22,6 +22,7 @@ You can typically find me:
 - Snowboarding in the Rocky Mountains 🏂
 - Exercising in the gym 🏋️
 - Enjoying outdoorsy things (camping, hiking, paddleboarding) 🥾
+  
 
 ## Contact
 
