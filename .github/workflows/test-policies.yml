@@ -1,0 +1,46 @@
+name: test-policies
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/**"
+      - "policies/**"
+      - "tests/**"
+      - "utils/**"
+  workflow_dispatch:
+    inputs:
+      remarks:
+        description: "Reason for triggering the workflow run"
+        required: false
+        default: "Testing Azure Policies..."
+jobs:
+  test-policies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Install PowerShell modules
+        shell: pwsh
+        run: |
+          Install-Module -Name "Az" -RequiredVersion "12.1.0" -Force -Scope CurrentUser -ErrorAction Stop
+      - name: Login to Azure
+        uses: azure/login@v1
+        with:
+          creds: ${{secrets.AZURE_CREDENTIALS}}
+          enable-AzPSSession: true
+      - name: Test Azure Policies
+        shell: pwsh
+        run: |
+          Invoke-Pester -Output Detailed -CI
+      - name: Logout of Azure
+        shell: pwsh
+        run: |
+          # Suppress printing out client secret in clear text by sending output to $null.
+          # See also: https://github.com/Azure/azure-powershell/issues/14208
+          Disconnect-AzAccount > $null
+      - name: Login to Azure
+        uses: azure/login@v1
+        with:
+          creds: ${{secrets.AZURE_CREDENTIALS}}
+          enable-AzPSSession: true
