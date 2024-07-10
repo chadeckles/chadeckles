@@ -22,9 +22,18 @@ jobs:
         shell: pwsh
         run: |
           Install-Module -Name "Az" -RequiredVersion "12.1.0" -Force -Scope CurrentUser -ErrorAction Stop
+      - name: Login to Azure
+        uses: Azure/login@v2.1.1
+        with:
+          creds: ${{secrets.AZURE_CREDENTIALS}}
       - name: Test Azure Policies
         shell: pwsh
         run: |
           Invoke-Pester -Output Detailed -CI
-
-
+      - name: Logout of Azure
+        shell: pwsh
+        run: |
+          # Suppress printing out client secret in clear text by sending output to $null.
+          # See also: https://github.com/Azure/azure-powershell/issues/14208
+          Disconnect-AzAccount > $null
+ 
