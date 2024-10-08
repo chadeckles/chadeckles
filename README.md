@@ -1,5 +1,5 @@
 # About Me (@chadeckles) 👋
-<img src="https://github.com/chadeckles/chadeckles/blob/main/octocat-ce.png" width="100" display:block>
+<img src="https://github.com/user-attachments/assets/d6fef720-43cc-4847-8ff8-5508aadf2993" width="150" display:block>
 
 
 My name is Chad Eckles and I am a cybersecurity & cloud professional residing in Colorado ⛰️
