@@ -17,7 +17,7 @@ My name is Chad Eckles and I am a cybersecurity & cloud professional residing in
 ## Personal
 
 You can typically find me:
-- Spending time with family 👪
+- Spending time with family and friends 👪
 - Having fun on the golf course ⛳
 - Snowboarding in the Rocky Mountains 🏂
 - Exercising in the gym 🏋️
