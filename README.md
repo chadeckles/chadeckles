@@ -1,5 +1,5 @@
 # About Me (@chadeckles) 👋
-<img src="https://github.com/user-attachments/assets/d6fef720-43cc-4847-8ff8-5508aadf2993" width="150" display:block>
+<img src="https://octodex.github.com/images/securityknightocat.png" width="150" display:block>
 
 
 My name is Chad Eckles and I am a cybersecurity & cloud professional residing in Colorado ⛰️
@@ -7,12 +7,11 @@ My name is Chad Eckles and I am a cybersecurity & cloud professional residing in
 
 ## Professional
 
-:octocat: I am a Senior Security Engineer at GitHub focusing on security cloud infrastructure. My goal is to make the world a more secure place.
+- I am a Senior Security Engineer at GitHub focusing on protecting cloud infrastructure 🛡️ 
+- My career in tech started in the USAF and I continue to serve in the Navy Reserves as a Maritime Cyber Warfare Officer 🪖
+- In my free time, I also teach as an adjunct instructor at the University of Denver 🏫
 
-🪖 I started my career in tech with the U.S. Air Force and continue to serve in the U.S. Navy Reserves as a Maritime Cyber Warfare Officer.
-
-🏫 I teach as an adjunct instructor at the University of Denver.
-
+`GOAL`: _Make the world a more secure place_ 🔐
 
 ## Personal
 
