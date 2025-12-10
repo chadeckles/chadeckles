@@ -1,11 +1,13 @@
 # About Me (@chadeckles) 👋
 
+**Cybersecurity & Cloud Professional | Colorado ⛰️**
+
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/chadeckles/chadeckles/blob/main/GitHub-Profile-Banner.png" alt="GitHub Profile Banner" width="1000Cybersecurity & Cloud Professional | Colorado ⛰️
+  <img src="https://github.com/chadeckles/chadeckles/blob/main/GitHub-Profile-Banner.png" alt="GitHub Profile Banner" width="1000">
+</p>
 
 ---
-
 
 ## 🔐 Professional
 
@@ -17,8 +19,6 @@
 
 ➡️ **Educator**  
    *Adjunct Instructor at the University of Denver, sharing knowledge and shaping future security professionals.*
-
-
 
 **`GOAL:`** _Make the world a more secure place_ 🔐
 
@@ -33,9 +33,7 @@ You can typically find me:
 - 🏋️ Exercising in the gym  
 - 🥾 Enjoying outdoorsy adventures (camping, hiking, paddleboarding)  
 
-
 ---
-
 
 ## 🔗 Connect with Me
 
