@@ -7,8 +7,9 @@
 - ⛰️ 𝙱𝚊𝚜𝚎𝚍 𝚒𝚗 𝙲𝚘𝚕𝚘𝚛𝚊𝚍𝚘
 
 ## 🛠 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙸 𝚃𝚒𝚗𝚔𝚎𝚛 𝙾𝚗
-- 🚩 [𝚂𝚎𝚗𝚝𝚒𝚗𝚎𝚕𝙵𝚘𝚛𝚐𝚎𝙲𝚃𝙵](https://github.com/chadeckles/sentinelforgectf) — 𝚊 𝚏𝚘𝚛𝚎𝚟𝚎𝚛-𝚏𝚛𝚎𝚎, 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝙲𝚃𝙵 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝚏𝚘𝚛 𝚋𝚞𝚒𝚕𝚍𝚎𝚛𝚜, 𝚑𝚊𝚌𝚔𝚎𝚛𝚜, 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗𝚎𝚛𝚜
 - 🦮 [𝙻𝚎𝚊𝚜𝚑](https://github.com/chadeckles/leash) — 𝚔𝚎𝚎𝚙 𝚢𝚘𝚞𝚛 𝙰𝙸 𝚊𝚐𝚎𝚗𝚝𝚜 𝚘𝚗 𝚊 𝚕𝚎𝚊𝚜𝚑: 𝚊 𝚍𝚎𝚗𝚢-𝚋𝚢-𝚍𝚎𝚏𝚊𝚞𝚕𝚝 𝚙𝚘𝚕𝚒𝚌𝚢 𝚎𝚗𝚐𝚒𝚗𝚎 𝚠𝚒𝚝𝚑 𝚈𝙰𝙼𝙻 𝚛𝚞𝚕𝚎𝚜 𝚊𝚗𝚍 𝚝𝚊𝚖𝚙𝚎𝚛-𝚎𝚟𝚒𝚍𝚎𝚗𝚝 𝚊𝚞𝚍𝚒𝚝 𝚕𝚘𝚐𝚜
+- 🚩 [𝚂𝚎𝚗𝚝𝚒𝚗𝚎𝚕𝙵𝚘𝚛𝚐𝚎𝙲𝚃𝙵](https://github.com/chadeckles/sentinelforgectf) — 𝚊 𝚏𝚘𝚛𝚎𝚟𝚎𝚛-𝚏𝚛𝚎𝚎, 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝙲𝚃𝙵 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝚏𝚘𝚛 𝚋𝚞𝚒𝚕𝚍𝚎𝚛𝚜, 𝚑𝚊𝚌𝚔𝚎𝚛𝚜, 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗𝚎𝚛𝚜
+[<img src="https://img.shields.io/badge/SentinelForgeCTF-sentinelforgectf.io-3fb950?style=for-the-badge&logo=hackthebox&logoColor=white" alt="SentinelForgeCTF" title="SentinelForgeCTF"/>](https://sentinelforgectf.io/)
 
 ## 🌟 𝙾𝚏𝚏 𝚝𝚑𝚎 𝙺𝚎𝚢𝚋𝚘𝚊𝚛𝚍
 - 👪 𝚂𝚙𝚎𝚗𝚍𝚒𝚗𝚐 𝚝𝚒𝚖𝚎 𝚠𝚒𝚝𝚑 𝚏𝚊𝚖𝚒𝚕𝚢 𝚊𝚗𝚍 𝚏𝚛𝚒𝚎𝚗𝚍𝚜
@@ -19,4 +20,3 @@
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
 [<img src="https://img.shields.io/badge/LinkedIn-cgeckles-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Chad on LinkedIn" title="Connect with Chad on LinkedIn"/>](https://www.linkedin.com/in/cgeckles/)
-[<img src="https://img.shields.io/badge/SentinelForgeCTF-sentinelforgectf.io-3fb950?style=for-the-badge&logo=hackthebox&logoColor=white" alt="SentinelForgeCTF" title="SentinelForgeCTF"/>](https://sentinelforgectf.io/)
